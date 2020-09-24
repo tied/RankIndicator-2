@@ -1,21 +1,21 @@
 #if ($label)
     #if ($label == "__label__1")
-        <span style="font-weight: bold; color: red;">Rank 1/9 (Extremely important)</span>
+        <span style="font-weight: bold; color: red;">Rank 1/9 (High Priority - Low Effort)</span>
     #elseif ($label == "__label__2")
-        <span style="font-weight: bold; color: red;">Rank 2/9 (Very important)</span>
+        <span style="font-weight: bold; color: red;">Rank 2/9 (High Priority - Medium Effort)</span>
     #elseif ($label == "__label__3")
-            <span style="font-weight: bold; color: red;">Rank 3/9 (Moderately important)</span>
+            <span style="font-weight: bold; color: red;">Rank 3/9 (High Priority - High Effort)</span>
     #elseif ($label == "__label__4")
-                <span style="font-weight: bold; color: blue;">Rank 4/9 (Slightly important)</span>
+                <span style="font-weight: bold; color: blue;">Rank 4/9 (Medium Priority - Low Effort)</span>
     #elseif ($label == "__label__5")
-                <span style="font-weight: bold; color: blue;">Rank 5/9 (Somewhat important)</span>
+                <span style="font-weight: bold; color: blue;">Rank 5/9 (Medium Priority - Medium Effort)</span>
     #elseif ($label == "__label__6")
-                <span style="font-weight: bold; color: blue;">Rank 6/9 (Slightly less important)</span>
+                <span style="font-weight: bold; color: blue;">Rank 6/9 (Medium Priority - High Effort)</span>
     #elseif ($label == "__label__7")
-                <span style="font-weight: bold; color: green;">Rank 7/9 (Moderately less important)</span>
+                <span style="font-weight: bold; color: green;">Rank 7/9 (Low Priority - Low Effort)</span>
     #elseif ($label == "__label__8")
-                <span style="font-weight: bold; color: green;">Rank 8/9 (Very Much less important)</span>
+                <span style="font-weight: bold; color: green;">Rank 8/9 (Low Priority - Medium Effort)</span>
     #elseif ($label == "__label__9")
-                <span style="font-weight: bold; color: green;">Rank 9/9 (Not important).</span>
+                <span style="font-weight: bold; color: green;">Rank 9/9 (Low Priority - High Effort).</span>
     #end
 #end
