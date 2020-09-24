@@ -6,7 +6,7 @@ Prototype developed to demonstrate the applicability of the NLP4RP approach.
 ```
 $ git clone https://github.com/user752/RankIndicator.git
 ```
-2. Place the model files in RankIndicator/src/main/resources (Download from [resources.zip](https://github.com/user752/RankIndicator/releases/download/v1.0/resources.zip))
+2. Place the model file in RankIndicator/src/main/resources (Download from [resources.zip](https://github.com/user752/RankIndicator/releases/download/v1.0/resources.zip))
 
 3. Change directory
 ```
