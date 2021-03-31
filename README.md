@@ -1,6 +1,10 @@
 # RankIndicator
 Prototype developed to demonstrate the applicability of the NLP4RP approach.
 
+### Pre-requisites
+
+Atlassian Plugin SDK version [6.3.10]
+
 ### How-to
 1. Clone the repository
 ```
