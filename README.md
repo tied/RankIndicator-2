@@ -3,8 +3,8 @@ Prototype developed to demonstrate the applicability of the NLP4RP approach.
 
 ### Pre-requisites
 
-Java JDK 8 javac version [1.8.0_181]
-Atlassian Plugin SDK version [6.3.10]
+1. Java JDK 8 javac version [1.8.0_181]
+2. Atlassian Plugin SDK version [6.3.10]
 
 ### How-to
 1. Clone the repository
