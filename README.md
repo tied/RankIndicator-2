@@ -1,5 +1,5 @@
 # RankIndicator
-Prototype developed to demonstrate the applicability of the NLP4RP approach.
+Prototype developed to demonstrate the applicability of the NLP4IP approach.
 
 ### Pre-requisites
 
